@@ -7,7 +7,7 @@ I build backend tools, machine learning pipelines, and computer vision models in
 My current capstone projects include creating AI models for object dimension estimation and document data extraction.
 I enjoy collaborating, solving complex technical challenges, and learning new technologies—always working to turn ideas into working code.
 
-Feel free to explore my pinned repositories below or reach out via LinkedIn!
+Feel free to explore my pinned repositories below or reach out via LinkedIn or ✉️ daniel.loevetski@gmail.com
 
 <br>
 
