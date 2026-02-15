@@ -4,6 +4,7 @@
 I’m Daniel, a B.Sc. Software Engineering graduate.
 
 I build backend tools, machine learning pipelines and computer vision models while mostly working with Python, Java or C++ languages.
+
 My capstone project included creating an AI program containing a YOLO model for object dimension estimation primarily used for measuring
 the width and height of any window opening with versatility, speed and accuracy.
 I enjoy collaborating, solving complex technical challenges, and learning new technologies — always working to turn ideas into working code.
