@@ -1,11 +1,12 @@
 # About Me:
 ### Hi there 👋
 
-I’m Daniel, a final-year Software Engineering student.
+I’m Daniel, a B.Sc. Software Engineering graduate.
 
-I build backend tools, machine learning pipelines, and computer vision models in Python, Java and C++.
-My current capstone projects include creating AI models for object dimension estimation and document data extraction.
-I enjoy collaborating, solving complex technical challenges, and learning new technologies—always working to turn ideas into working code.
+I build backend tools, machine learning pipelines and computer vision models while mostly working with Python, Java or C++ languages.
+My capstone project included creating an AI program containing a YOLO model for object dimension estimation primarily used for measuring
+the width and height of any window opening with versatility, speed and accuracy.
+I enjoy collaborating, solving complex technical challenges, and learning new technologies — always working to turn ideas into working code.
 
 Feel free to explore my pinned repositories below or reach out via LinkedIn or contact me at daniel.loevetski@gmail.com
 
