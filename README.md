@@ -7,6 +7,7 @@ I build backend tools, machine learning pipelines and computer vision models whi
 
 My capstone project included creating an AI program containing a YOLO model for object dimension estimation primarily used for measuring
 the width and height of any window opening with versatility, speed and accuracy.
+
 I enjoy collaborating, solving complex technical challenges, and learning new technologies — always working to turn ideas into working code.
 
 Feel free to explore my pinned repositories below or reach out via LinkedIn or contact me at daniel.loevetski@gmail.com
